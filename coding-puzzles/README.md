@@ -1,0 +1,2 @@
+# Explanation of the puzzles
+The puzzles contained in this folder are intended to provide the widest possible understanding of a developer's abilities. They include knowledge of the DOM, JavaScript, ReasonML, and functional programming in general. Many of them are adapted from the [famous 99 Problems](https://ocaml.org/learn/tutorials/99problems.html). They are organized by difficulty and the skills required. Each puzzle contains a file with the test inputs and framing code. Solutions are kept in a separate folder.
