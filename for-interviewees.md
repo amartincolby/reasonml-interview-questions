@@ -13,3 +13,6 @@ Recursion is the name of the game in the functional world, and even though Reaso
 
 ## Understand immutable data structures
 Linked lists, trees, tries, etc.
+
+## Understand monads
+This is the most esoteric concept when coming from a more procedural language. Discussions about monads, what constitutes monads, how to use the, how to transform them, and on and on, dominate the world of functional programming because they are a key element to why functional languages are so stable. Don't worry, because you already have experience with monads. The JavaScript promise is a monad! It is a wrapper with known behavior that either contains a value or it doesn't.
